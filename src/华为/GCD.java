@@ -20,7 +20,6 @@ public class GCD{
             int result = A * B /divisor(A,B);
             System.out.println(result);
         }
-        in.close();
     }
     
     public static int divisor(int m,int n){
